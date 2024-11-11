@@ -1,0 +1,3 @@
+/Users/mariacesar/personal/ufscar/poo/cmake-build-debug/CMakeFiles/poo.dir
+/Users/mariacesar/personal/ufscar/poo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariacesar/personal/ufscar/poo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
