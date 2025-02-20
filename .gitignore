@@ -1,1 +1,5 @@
 cmake-build-debug
+library.cpp
+library
+library.h
+CMakeLists.txt
